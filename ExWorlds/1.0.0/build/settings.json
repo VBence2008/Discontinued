@@ -1,0 +1,21 @@
+{
+	"FPS" : 1000,
+	"Flags" : 
+	{
+		"MSAA4x" : false,
+		"VSync" : false
+	},
+	"Font" : "BAHNSCHRIFT.TTF",
+	"MaxMessages" : 20,
+	"RenderDistance" : 
+	{
+		"X" : 500.0,
+		"Y" : 500.0,
+		"Z" : 500.0
+	},
+	"Window" : 
+	{
+		"Height" : 600,
+		"Width" : 800
+	}
+}
