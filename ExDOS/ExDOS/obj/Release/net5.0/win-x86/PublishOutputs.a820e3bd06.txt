@@ -1,0 +1,6 @@
+C:\Users\veres\OneDrive\Asztali gép\ExDOS\ExDOS.pdb
+C:\Users\veres\OneDrive\Asztali gép\ExDOS\clrcompression.dll
+C:\Users\veres\OneDrive\Asztali gép\ExDOS\clrjit.dll
+C:\Users\veres\OneDrive\Asztali gép\ExDOS\coreclr.dll
+C:\Users\veres\OneDrive\Asztali gép\ExDOS\mscordaccore.dll
+C:\Users\veres\OneDrive\Asztali gép\ExDOS\ExDOS.exe

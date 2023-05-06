@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExDOS</id>
+    <version>1.0.0</version>
+    <authors>ExDOS</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Dev\ExDOS\ExDOS\bin\Debug\net5.0\ExDOS.runtimeconfig.json" target="lib\net5.0\ExDOS.runtimeconfig.json" />
+    <file src="F:\Dev\ExDOS\ExDOS\bin\Debug\net5.0\ExDOS.dll" target="lib\net5.0\ExDOS.dll" />
+  </files>
+</package>

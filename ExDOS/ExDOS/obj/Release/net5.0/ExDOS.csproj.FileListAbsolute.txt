@@ -1,0 +1,16 @@
+F:\Dev\ExDOS\ExDOS\bin\Release\net5.0\ExDOS.exe
+F:\Dev\ExDOS\ExDOS\bin\Release\net5.0\ExDOS.deps.json
+F:\Dev\ExDOS\ExDOS\bin\Release\net5.0\ExDOS.runtimeconfig.json
+F:\Dev\ExDOS\ExDOS\bin\Release\net5.0\ExDOS.runtimeconfig.dev.json
+F:\Dev\ExDOS\ExDOS\bin\Release\net5.0\ExDOS.dll
+F:\Dev\ExDOS\ExDOS\bin\Release\net5.0\ref\ExDOS.dll
+F:\Dev\ExDOS\ExDOS\bin\Release\net5.0\ExDOS.pdb
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ExDOS.csproj.AssemblyReference.cache
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ExDOS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ExDOS.AssemblyInfoInputs.cache
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ExDOS.AssemblyInfo.cs
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ExDOS.csproj.CoreCompileInputs.cache
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ExDOS.dll
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ref\ExDOS.dll
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ExDOS.pdb
+F:\Dev\ExDOS\ExDOS\obj\Release\net5.0\ExDOS.genruntimeconfig.cache
