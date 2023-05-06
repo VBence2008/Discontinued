@@ -1,0 +1,56 @@
+{
+  "Gravity": 9.81,
+  "Time": 0,
+  "Object": {
+    "Model": [
+      {
+        "Collision": true,
+        "Color": [255, 255, 255, 255],
+        "Model": "world_assets/railroad track.obj",
+        "Texture": "",
+        "Rotation": [0, 0, 0],
+        "Scale": [1, 1, 1],
+        "Spacing": [1, 1, 5],
+        "Coord": [
+          [
+            [-200, 0, 0],
+            [200, 0, 0]
+          ]
+        ]
+      },
+      {
+        "Collision": true,
+        "Color": [255, 255, 255, 255],
+        "Model": "world_assets/untitled.obj",
+        "Texture": "world_assets/Grass.png",
+        "Rotation": [0, 0, 0],
+        "Scale": [100, 1, 5],
+        "Spacing": [1, 1, 1],
+        "Coord": [[[-50, 0, 7]]]
+      }
+    ],
+    "Train": {
+      "Locomotive": [
+        {
+          "ID": "TestLoco1",
+          "Color": [255, 255, 255, 255],
+          "Model": "world_assets/Car.obj",
+          "Texture": "world_assets/Grass.png",
+          "Rotation": [0, 0, 0],
+          "Scale": [1, 1, 1],
+          "Velocity": {
+            "Power": [
+              [0.2, 1.2, 20, 40, 1.0],
+              [0.4, 1.4, 40, 60, 1.0],
+              [0.6, 1.6, 60, 80, 1.0],
+              [0.8, 1.8, 80, 100, 1.0],
+              [1, 2, 100, 120, 1.0]
+            ],
+            "Brake": [-0.2, -0.4, -0.6, -0.8, -1],
+            "Emergency": -3
+          }
+        }
+      ]
+    }
+  }
+}
