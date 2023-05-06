@@ -1,0 +1,22 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/Other/bkg.png" type="Texture" id=2]
+
+[node name="Menu" type="Control"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -512.0
+margin_top = -300.0
+margin_right = 512.0
+margin_bottom = 300.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="bkg" type="Sprite" parent="."]
+show_behind_parent = true
+position = Vector2( 511.428, 300.167 )
+scale = Vector2( 10.2469, 12.2112 )
+texture = ExtResource( 2 )
