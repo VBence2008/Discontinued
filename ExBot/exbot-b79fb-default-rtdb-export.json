@@ -1,0 +1,13 @@
+{
+  "global": {
+    "locked": 0,
+    "prefix": "!",
+    "user": {
+      "status": {
+        "circle": "online",
+        "text": "you",
+        "type": "WATCHING"
+      }
+    }
+  }
+}
