@@ -1,0 +1,13 @@
+{
+	"FPS" : 60,
+	"Flags" : 
+	{
+		"MSAA4x" : false,
+		"VSync" : false
+	},
+	"Window" : 
+	{
+		"Height" : 600,
+		"Width" : 800
+	}
+}
